@@ -443,7 +443,7 @@
 		}
 
 		.feature-grid .feature {
-			display: inline-block;
+			display: block;
 			float: left;
 			margin-bottom: 3em;
 			width: 50%;
