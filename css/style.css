@@ -1055,9 +1055,9 @@
 	#banner {
 		padding: 16em 0 13em 0;
 		background-attachment: fixed;
-		background-image: url("../images/wordle.png"), url("../images/wordle.png");
+		background-image: url("images/overlay.png"), url("../images/wordle.png");
 		background-position: center top;
-		background-size: cover;
+		background-size: 100% 25%;
 		line-height: 1.75;
 		text-align: center;
 	}
@@ -1103,7 +1103,7 @@
 
 		.wrapper.style3 {
 			background-attachment: fixed;
-			background-image: url("../images/wordle.png"), url("../images/wordle.png");
+			background-image: url("images/overlay.png"), url("../images/wordle.png");
 			background-position: center center;
 			background-size: cover;
 		}
